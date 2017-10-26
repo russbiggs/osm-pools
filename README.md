@@ -1,0 +1,1 @@
+A Heat Map of the swimming pools of Albuquerque from OpenStreetMap
